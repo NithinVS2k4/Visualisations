@@ -17,7 +17,7 @@ The purpose of this repository is to:
 
 ## Motivation
 
-This project is a collection of my experiments with visualization and simulation. It serves as a creative outlet to combine programming with mathematical and physical concepts.
+This project is a collection of my experiments with visualization and simulation. It serves as a creative outlet to combine programming with mathematical and physical concepts in order to understand them at a deeper level.
 
 ## Future Updates
 
